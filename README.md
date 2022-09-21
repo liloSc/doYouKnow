@@ -19,9 +19,27 @@ todo
 todo
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Technologies used
 
-Please make sure to update tests as appropriate.
+## Contributing
+todo
 
 ## License
+
+## Expected challenges
+- Code a game, as we have never done that before. 
+- Working with pixels and animation to be able to place them in the correct way to create the maze and the avatars. 
+- Create truly educational tasks and manage how the user will interact with the game. 
+- Making a random maze generator
+- Managing to do all that as we only have a few weeks to implement the game. 
+- To ensure the children don't get bored
+
+## What did you learn?
+## Some of the challenges you faced and 
+## What makes your project stand out?
+## Future Features
+- Add microphone support
+- Different Worlds (Math, French, History)
+- Different Characters asking questions
+- Different player sprites (like, evolution of the dog)
+
