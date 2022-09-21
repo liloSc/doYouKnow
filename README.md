@@ -35,7 +35,7 @@ todo
 - To ensure the children don't get bored
 
 ## What did you learn?
-## Some of the challenges you faced and 
+## Some of the challenges you faced
 ## What makes your project stand out?
 ## Future Features
 - Add microphone support
@@ -43,3 +43,5 @@ todo
 - Different Characters asking questions
 - Different player sprites (like, evolution of the dog)
 
+## Credits
+This is a university project...
