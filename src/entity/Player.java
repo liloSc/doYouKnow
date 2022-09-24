@@ -47,14 +47,14 @@ public class Player extends Entity {
 
     public void getPlayerImage() {
         try {
-            sprite_up1 = ImageIO.read(Objects.requireNonNull(getClass().getResourceAsStream("/player/boy_up_1.png")));
-            sprite_up2 = ImageIO.read(Objects.requireNonNull(getClass().getResourceAsStream("/player/boy_up_2.png")));
-            sprite_down1 = ImageIO.read(Objects.requireNonNull(getClass().getResourceAsStream("/player/boy_down_1.png")));
-            sprite_down2 = ImageIO.read(Objects.requireNonNull(getClass().getResourceAsStream("/player/boy_down_2.png")));
-            sprite_left1 = ImageIO.read(Objects.requireNonNull(getClass().getResourceAsStream("/player/boy_left_1.png")));
-            sprite_left2 = ImageIO.read(Objects.requireNonNull(getClass().getResourceAsStream("/player/boy_left_2.png")));
-            sprite_right1 = ImageIO.read(Objects.requireNonNull(getClass().getResourceAsStream("/player/boy_right_1.png")));
-            sprite_right2 = ImageIO.read(Objects.requireNonNull(getClass().getResourceAsStream("/player/boy_right_2.png")));
+            sprite_up1 = ImageIO.read(Objects.requireNonNull(getClass().getResourceAsStream("/player/dog_up_1.png")));
+            sprite_up2 = ImageIO.read(Objects.requireNonNull(getClass().getResourceAsStream("/player/dog_up_2.png")));
+            sprite_down1 = ImageIO.read(Objects.requireNonNull(getClass().getResourceAsStream("/player/dog_down_1.png")));
+            sprite_down2 = ImageIO.read(Objects.requireNonNull(getClass().getResourceAsStream("/player/dog_down_2.png")));
+            sprite_left1 = ImageIO.read(Objects.requireNonNull(getClass().getResourceAsStream("/player/dog_left_1.png")));
+            sprite_left2 = ImageIO.read(Objects.requireNonNull(getClass().getResourceAsStream("/player/dog_left_2.png")));
+            sprite_right1 = ImageIO.read(Objects.requireNonNull(getClass().getResourceAsStream("/player/dog_right_1.png")));
+            sprite_right2 = ImageIO.read(Objects.requireNonNull(getClass().getResourceAsStream("/player/dog_right_2.png")));
         } catch (IOException e) {
             e.printStackTrace();
         }
